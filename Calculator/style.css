@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@300&display=swap');
+
+h1{
+    font-size: 88px;
+    font-family: 'Signika Negative', sans-serif;
+}
+
+body{
+    background: linear-gradient(to bottom, white ,rgb(90, 228, 10));
+}
+.container{
+    font-family: 'Signika Negative', sans-serif;
+    text-align: center;
+    
+    margin-top:23px
+}
+
+table{
+    margin: auto;
+}
+
+input{
+    border-radius: 10px;
+    font-size:34px;
+    height: 65px;
+    width: 456px;
+}
+
+button{
+    border-radius: 20px;
+    font-size: 40px;
+    width: 102px;
+    height: 90px;
+    margin: 6px;
+}
+
+.calculator{ 
+    
+    background-color: #f2f2f2;
+    padding: 23px;
+    border-radius: 20px;
+    display: inline-block;
+    
+}
+
